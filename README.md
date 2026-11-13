@@ -13,6 +13,23 @@ Plataforma que conecta famílias a babás aprovadas, com busca por mapa. Projeto
 - **Painel administrativo**: aprovação de babás após entrevista.
 - **Página inicial** com design em vidro fosco e animações de rolagem.
 
+## Telas
+
+Capturas do protótipo com dados fictícios.
+
+| | |
+|---|---|
+| **Escolha de perfil** (família, babá ou administração) | **Painel da família** |
+| ![Escolha de perfil](prints/01-escolha-perfil.png) | ![Painel da família](prints/02-painel-familia.png) |
+| **Busca de babás** (só aprovadas e com horário livre) | **Solicitações** |
+| ![Busca de babás](prints/03-buscar-babas.png) | ![Solicitações](prints/04-solicitacoes.png) |
+| **Painel da babá** | **Painel da administração** |
+| ![Painel da babá](prints/05-painel-baba.png) | ![Painel da administração](prints/06-painel-admin.png) |
+
+**Administração de babás**
+
+![Administração de babás](prints/07-admin-babas.png)
+
 ## Privacidade por padrão
 
 - A localização exibida no mapa é aproximada: sorteada entre 200 e 600 m do ponto real e fixa até o endereço mudar.
